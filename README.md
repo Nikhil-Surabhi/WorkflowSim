@@ -1,3 +1,15 @@
+HOME PAGE
+
+![Home_page](https://github.com/Nikhil-Surabhi/WorkflowSim/assets/131053472/2bbc75c3-5538-4624-9376-a9688cf9cd70)
+
+
+CREATE NEW
+![Create_New](https://github.com/Nikhil-Surabhi/WorkflowSim/assets/131053472/df1f9b0e-ca4b-40fc-971d-66eb475b302f)
+
+TEMPLATES
+![Templates](https://github.com/Nikhil-Surabhi/WorkflowSim/assets/131053472/7a2e0ebe-c06d-4a4b-8768-272f9ad2808c)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
