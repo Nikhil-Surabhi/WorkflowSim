@@ -6,9 +6,31 @@ HOME PAGE
 CREATE NEW
 ![Create_New](https://github.com/Nikhil-Surabhi/WorkflowSim/assets/131053472/df1f9b0e-ca4b-40fc-971d-66eb475b302f)
 
+
+AUTOGENERATE
+![Autogen_Beta](https://github.com/Nikhil-Surabhi/WorkflowSim/assets/131053472/7bcae60b-b6cb-4e0b-80e9-f78442a5a6ce)
+
 TEMPLATES
 ![Templates](https://github.com/Nikhil-Surabhi/WorkflowSim/assets/131053472/7a2e0ebe-c06d-4a4b-8768-272f9ad2808c)
 
+STARRED
+![Starred](https://github.com/Nikhil-Surabhi/WorkflowSim/assets/131053472/1671fff8-95c1-4e3c-bd49-a3d56a33416e)
+
+CANVAS
+![Canvas](https://github.com/Nikhil-Surabhi/WorkflowSim/assets/131053472/c165aebd-7c9b-410b-83d0-99ddb18e4591)
+
+SHARE
+![Share](https://github.com/Nikhil-Surabhi/WorkflowSim/assets/131053472/32a433d4-3f77-4c2b-91f9-12866c1a56a7)
+
+
+ADDING COMMENTS
+![Adding Comment](https://github.com/Nikhil-Surabhi/WorkflowSim/assets/131053472/d0a9c647-7f00-4b61-99ae-3d335c21b6d2)
+
+FILE SHARING
+![File saving](https://github.com/Nikhil-Surabhi/WorkflowSim/assets/131053472/f12d358b-70e0-4710-80a6-cd7b256cfd02)
+
+GO PREMIUM
+![Go Premium](https://github.com/Nikhil-Surabhi/WorkflowSim/assets/131053472/fae854e4-82b6-4d7f-ba2c-6f53e921f277)
 
 # Getting Started with Create React App
 
