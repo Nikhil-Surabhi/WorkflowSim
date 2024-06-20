@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://anandeshi_rahul@bitbucket.org/anandeshi_rahul/workflowsim-react.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[pull]
+	rebase = false
+[branch "sudarshan"]
+	remote = origin
+	merge = refs/heads/sudarshan

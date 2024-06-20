@@ -1,6 +1,3 @@
-# WorkflowSim
-WorkflowSim allows you to build workflows, business models, design prototypes and wireframes in one platform.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
